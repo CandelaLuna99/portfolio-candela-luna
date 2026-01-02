@@ -1,3 +1,13 @@
 # Portfolio – Candela Luna
 
-Portfolio personal en desarrollo.
+Portfolio personal como desarrolladora frontend junior.
+
+## Tecnologías
+- HTML
+- CSS
+- JavaScript (en formación)
+- React (en formación)
+
+## Estado
+En desarrollo.
+
