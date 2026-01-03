@@ -11,3 +11,5 @@ Portfolio personal como desarrolladora frontend junior.
 ## Estado
 En desarrollo.
 
+## Proyectos
+- Landing Page (HTML y CSS)
